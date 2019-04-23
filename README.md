@@ -1,5 +1,5 @@
 # CertificateTransparencyLogs
 User crt.sh website to gather a list of subdomains.
 
-#Usage
+# Usage
 python certsh.py -d facebook.com
